@@ -1,16 +1,20 @@
 <h3> Hulu-Clone Project <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe4%2FHulu_Logo.svg%2F1200px-Hulu_Logo.svg.png&f=1&nofb=1" height="20px">
 </h3>
 
-<h2>Movie API</h2>
-https://www.themoviedb.org/
-<h2>Animation</h2>
-react-flip-move
-https://github.com/joshwcomeau/react-flip-move
+### Description
 
+Hulu-clone web application https://hulu-joey-clone.web.app/. 
+A ReactJs web application allow to fetch movies from external API. 
+User can use to check which movie are trending| top rated | genres...
+
+<h1>Movie API</h1>
+source: https://www.themoviedb.org/
 <br/>
-<p>
+<h1>Animation</h1>
+react-flip-move
+source: https://github.com/joshwcomeau/react-flip-move
+<br/><br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-</p>
 
 ## Available Scripts
 
