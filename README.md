@@ -3,9 +3,9 @@
 
 ### Description
 
-Hulu-clone web application https://hulu-joey-clone.web.app/. 
-A ReactJs web application allow to fetch movies from external API. 
-User can use to check which movie are trending| top rated | genres...
+Hulu-clone web application https://hulu-joey-clone.web.app/. <br/>
+A ReactJs Entertaining App. <br/>
+<h3>Features:</h3> <p>Fetch Data from External API | Flip-Move Animation | Check Trending Movies</p><br/><br/>
 
 <h1>Movie API</h1>
 source: https://www.themoviedb.org/
